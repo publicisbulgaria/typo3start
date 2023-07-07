@@ -31,7 +31,13 @@ docker exec -it typo3_app composer install
 ## Import database
 ``` 
 1. Go to http://localhost:8085. phpMyAdmin should open.
-2. Import the file typo3_database.sql (located in the root)
+2. Fill the fields as follows:
+
+Server: typo3_mysql
+Username: admin
+Password: 1
+
+3. Import the file typo3_database.sql (located in the root)
 ``` 
 
 ## Open the TYPO3 Backend/Frontend
