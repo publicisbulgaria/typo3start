@@ -1,4 +1,8 @@
 # TYPO3 custom extension task
+```
+The actual task is described in the file typo3-task_CustomExtension_v1.pdf
+
+```
 
 ## Rrerequisite
 ```
