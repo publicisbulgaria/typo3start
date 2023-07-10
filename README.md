@@ -59,7 +59,7 @@ Frontend view
 ```
 ## Task
 ``` 
-1. Open the file typo3-task_CustomExtension_v1.pdf located in the root of the downloaded project (in Bulgarian).
+1. Open the file typo3-task_CustomExtension_v5.pdf located in the root of the downloaded project (in Bulgarian).
 
 In case of any questions, please write us via Teams or by email.
 
