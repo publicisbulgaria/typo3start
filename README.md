@@ -13,7 +13,7 @@ Composer
 ## Install
 
 ```bash
-$ git clone git@github.com:vasildakov/typo3-custom-extension.git
+$ https://github.com/publicisbulgaria/typo3start.git
 ```
 
 ## Using docker-compose
