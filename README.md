@@ -41,7 +41,7 @@ Server: typo3_mysql
 Username: admin
 Password: 1
 
-3. Import the file typo3_database.sql (located in the root)
+3. Import the file typo3_database.sql (located in the root) in the database typo3_mysql.
 ``` 
 
 ## Open the TYPO3 Backend/Frontend
