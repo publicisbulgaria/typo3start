@@ -1,19 +1,14 @@
 {
-    "name":"vasildakov/site-package",
+    "name":"pubbg/site-package",
     "type":"typo3-cms-extension",
-    "description":"Example site package from the site package tutorial",
-    "homepage":"https://github.com/vasildakov/typo3-custom-extension/",
+    "description":"Example site package",
     "license":"MIT",
     "keywords":["typo3", "site package"],
     "version": "1.0.1",
-    "support":{
-        "issues":"https://github.com/vasildakov/typo3-custom-extension/issues"
-    },
     "authors":[
         {
-            "name":"Vasil Dakov",
+            "name":"",
             "role":"Developer",
-            "homepage":"https://github.com/vasildakov/"
         }
     ],
     "require": {
@@ -26,12 +21,12 @@
     },
     "autoload":{
         "psr-4":{
-            "VasilDakov\\SitePackage\\":"Classes/"
+            "PUBBG\\SitePackage\\":"Classes/"
         }
     },
     "autoload-dev":{
         "psr-4":{
-            "VasilDakov\\SitePackage\\Tests\\":"Tests/"
+            "PUBBG\\SitePackage\\Tests\\":"Tests/"
         }
     },
     "extra":{

@@ -4,6 +4,6 @@ services:
     autoconfigure: true
     public: true
 
-  VasilDakov\SitePackage\:
+  PUBBG\SitePackage\:
     resource: '../Classes/*'
     exclude: '../Classes/Domain/Model/*'
