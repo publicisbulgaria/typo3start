@@ -6,14 +6,16 @@ The actual task is described in the file typo3-task_CustomExtension_v5.pdf
 
 ## Prerequisite
 ```
-Docker ddev installed (download from https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/)
+Docker Desktop (download from https://ddev.readthedocs.io/en/latest/users/install/)
+Docker ddev installed
 Composer (download from https://getcomposer.org/download/)
 ```
 
 ## Install
 
 ```bash
-$ https://github.com/publicisbulgaria/typo3start.git
+1. Create a folder in your local system and open it.
+2. $ git clone https://github.com/publicisbulgaria/typo3start.git
 ```
 
 ## Using docker-compose
