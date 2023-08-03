@@ -6,8 +6,8 @@ The actual task is described in the file typo3-task_CustomExtension_v5.pdf
 
 ## Prerequisite
 ```
-Docker ddev installed
-Composer
+Docker ddev installed (download from https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/)
+Composer (download from https://getcomposer.org/download/)
 ```
 
 ## Install
